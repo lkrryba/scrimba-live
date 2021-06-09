@@ -80,6 +80,11 @@ li:last-child {
     content: '🏆'
 }
 
+
+.li-newcomp::marker {
+    content: '⚡️'
+}
+
 .li-join-wwdc::marker {
     content: '💻'
 }
